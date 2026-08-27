@@ -1,4 +1,5 @@
 **Visualising Future Climate Projections with Open-Source Python (From CMIP6 Data to Interactive Web Maps)**
+
 https://talks.osgeo.org/foss4g-2026-workshop/talk/3DECQE/
 
 
